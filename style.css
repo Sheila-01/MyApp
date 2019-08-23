@@ -1,0 +1,32 @@
+.container{
+    display: block;
+}
+
+input{
+    display: block; 
+    margin: 5px;
+    /* background-color: aliceblue; */
+    /* border-radius: 1000px; */
+    /* margin: 0 auto; */
+    /* height: 30px; */
+}
+
+/* button{
+    margin: 5px;
+    color: blue;
+    border-radius: 1000px;
+    margin: 0 auto;
+    background-color:aliceblue;
+    text-align: center;
+} */
+
+/* .container{
+    border: 2px solid grey;
+    margin: 0 auto;
+        width: 50vw;
+        height: 50vh;
+    }
+
+form{
+    align-content: center;
+} */
